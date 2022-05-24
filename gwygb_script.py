@@ -7,7 +7,7 @@ request_header = {
     "User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5"
 }
 
-dir = r"/home/thinkpad/文档/中华人民共和国国务院公报/"
+dir = r"/home/XXX/文档/中华人民共和国国务院公报/"
 
 gwygb_url = "http://www.gov.cn/ziliao/fgwj/gwygb/lsgb.htm"
 
